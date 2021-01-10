@@ -1,3 +1,7 @@
 valor é 01
 vou mudar o valor para 02
+<<<<<<< HEAD
 ok! Funciona!
+=======
+perai...
+>>>>>>> 143e666a6b59e284016b4869065106bbcb515bb0
