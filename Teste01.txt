@@ -4,4 +4,8 @@ vou mudar o valor para 02
 ok! Funciona!
 =======
 perai...
+<<<<<<< HEAD
 >>>>>>> 143e666a6b59e284016b4869065106bbcb515bb0
+=======
+resolvendo.
+>>>>>>> 559f24d5f0f882b8e0bd1a0fa70caa7c12dabca3
